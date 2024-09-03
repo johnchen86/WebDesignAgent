@@ -7,7 +7,7 @@ IMG_GEN_TYPE : "dalle3" # "dalle3" or "cogview-3" or "sd3"
 is_azure : False # set to True if you are using azure api
 ### Azure settings
 AZURE_OPENAI_ENDPOINT : ""
-AZURE_OPENAI_KEY : "aaa"
+AZURE_OPENAI_KEY : "bbb"
 AZURE_OPENAI_API_VERSION : ""
 
 AZURE_OPENAI_DALLE_ENDPOINT : ""
