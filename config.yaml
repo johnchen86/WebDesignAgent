@@ -8,7 +8,7 @@ is_azure : False # set to True if you are using azure api
 ### Azure settings
 AZURE_OPENAI_ENDPOINT : ""
 AZURE_OPENAI_KEY : "bbb"
-AZURE_OPENAI_API_VERSION : ""
+AZURE_OPENAI_API_VERSION : "ccc"
 
 AZURE_OPENAI_DALLE_ENDPOINT : ""
 AZURE_OPENAI_DALLE_KEY : ""
